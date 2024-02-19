@@ -5,7 +5,7 @@ var buttonColours = ["red", "blue", "green", "yellow"];
 var gamePattern = [];
 //12. At the top of the game.js file, create a new empty array with the name userClickedPattern.
 var userClickedPattern = [];
-//23. You'll need a way to keep track of whether if the game has started or not, so you only call nextSequence() on the first keypress.
+//23.ou'll need a way to keep track of whether if the game has started or not, so you only call nextSequence() on the first keypress.
 var started = false;
 
 //22. Create a new variable called level and start at level 0.
